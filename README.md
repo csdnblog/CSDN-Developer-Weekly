@@ -1,5 +1,7 @@
 # CSDN-Developer-Weekly
 
+[第15期：Libra 骗局来了! 受害者会是你吗?独立开发者赚钱的资源集合，嫦娥五号将利用 AI 确定登陆位置](https://blog.csdn.net/blogdevteam/article/details/95632417)
+
 [第14期：乔纳森离开苹果；李彦宏被泼水；Windows 公开 Linux 内核源代码](https://blog.csdn.net/csdnnews/article/details/95041766)
 
 [第13期：新语言V强势来袭！吴恩达夫妇Drive.ai“卖身”苹果；第四代树莓派性能赶超PC？](https://letter.csdn.net/news/newsletter/show_book/1291/45)
