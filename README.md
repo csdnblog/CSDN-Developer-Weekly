@@ -1,13 +1,10 @@
 # CSDN-Developer-Weekly
 
-[第18期：互联网公司接连上演反腐风暴，GitHub 公布了托管平台与美国贸易管制的相关细节！]
-(https://blog.csdn.net/blogdevteam/article/details/98353227)
+[第18期：互联网公司接连上演反腐风暴，GitHub 公布了托管平台与美国贸易管制的相关细节！](https://blog.csdn.net/blogdevteam/article/details/98353227)
 
-[第17期：因制裁 多个地区GitHub账号使用受限！Python 之父考虑重构解释器]
-(https://blog.csdn.net/blogdevteam/article/details/97511153)
+[第17期：因制裁 多个地区GitHub账号使用受限！Python 之父考虑重构解释器](https://blog.csdn.net/blogdevteam/article/details/97511153)
 
-[第16期：AI补代码神器问世，百度网盘克星诞生，Google 已经取消中国搜索引擎项目！]
-(https://blog.csdn.net/blogdevteam/article/details/96481370)
+[第16期：AI补代码神器问世，百度网盘克星诞生，Google 已经取消中国搜索引擎项目！](https://blog.csdn.net/blogdevteam/article/details/96481370)
 
 [第15期：Libra 骗局来了! 受害者会是你吗?独立开发者赚钱的资源集合，嫦娥五号将利用 AI 确定登陆位置](https://blog.csdn.net/blogdevteam/article/details/95632417)
 
